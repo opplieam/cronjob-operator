@@ -1,6 +1,5 @@
 # cronjob
-Learn Kubebuilder
-
+Learn Kubebuilder and building k8s operator
 
 ## License
 
